@@ -1,0 +1,2 @@
+Oi, meu nome é goku!
+No capítulo de hoje nós iremos ver GIT.
